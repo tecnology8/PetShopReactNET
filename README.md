@@ -1,5 +1,6 @@
 # Pet Store Project
-  
+
+[![Screenshot-2023-08-23-204137.png](https://i.postimg.cc/029Zjfp6/Screenshot-2023-08-23-204137.png)](https://postimg.cc/XXD9D913)
 
 # Tecnologias Usadas
 
